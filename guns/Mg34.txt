@@ -1,0 +1,46 @@
+Name Mg34
+ShortName Mg34
+//The ammo this gun uses (shortName)
+Ammo Mg34Ammo
+Icon Mg34
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 53
+//The amount of gun recoil, all relative : Sten = 1, Mg34 = 3, Mg34Sniper = 20
+Recoil 7
+//Damage in half hearts
+Damage 6
+//The higher this value, the more the bullets spread
+Accuracy 6
+//Time in ticks between rounds
+ShootDelay 3
+ShootSound Mg34Shoot
+ReloadSound Mg34Reload
+Mode FullAuto SemiAuto
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 1.0
+//Modifiers
+MoveSpeedModifier 0.55
+//Bullet speed, default 3.0
+BulletSpeed 50.0
+Scope None
+Deployable False
+DeployedModel None
+Model W44.Mg34
+Texture SkinMg34
+ModelScale 1.25
+AllowAttachments OpticalSight
+AllowBarrelAttachments false
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments false
+
+//Recoil
+Recoil 2.5
+RandomRecoilRange 1.50
+RandomRecoilYawRange 2.0
+DecreaseRecoil 0.75
+DecreaseRecoilYaw 1.25
+
+Description German Light Machine Gun

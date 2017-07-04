@@ -1,0 +1,46 @@
+Name Modell1915
+ShortName Modell1915
+//The ammo this gun uses (shortName)
+Ammo Modell1915Ammo
+Icon Modell1915
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 79
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Modell1915Sniper = 20
+Recoil 5
+//Damage in half hearts
+Damage 7
+//The higher this value, the more the bullets spread
+Accuracy 5
+//Time in ticks between rounds
+ShootDelay 3
+ShootSound Modell1915Shoot
+ReloadSound Modell1915Reload
+Mode SemiAuto FullAuto
+IgnoreArmorProbability 0.5
+IgnoreArmorDamageFactor 1.0
+//Modifiers
+MoveSpeedModifier 0.8
+//Bullet speed, default 3.0
+BulletSpeed 100.0
+Scope None
+Deployable False
+DeployedModel None
+Model W44.Modell1915
+Texture SkinModell1915
+ModelScale 0.25
+AllowAttachments ZF4Scope ZF39Scope ZF41Scope OpticalSight
+AllowBarrelAttachments false
+AllowScopeAttachments true
+AllowStockAttachments false
+AllowGripAttachments false
+
+//Recoil
+Recoil 2.25
+RandomRecoilRange 1.50
+RandomRecoilYawRange 1.25
+DecreaseRecoil 1.75
+DecreaseRecoilYaw 1.5
+
+Description German Semi/Auto Rifle
