@@ -1,0 +1,40 @@
+//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name PzGrenadier Feldgrau Chest
+ShortName PzGrenadierFeldgrauChest
+ItemID Your ID
+
+
+// Visuals
+ModelScale 1
+Icon PzGrenadierChest
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Body
+
+
+//Visuals
+Model W44.PzGrenadierFeldgrauChest
+ArmorTexture SkinPzGrenadierFeldgrau
+
+
+//Armor Settings
+Defence 0.2
+
+//Helmet Settings
+SmokeProtection false
+
+//------------------------------------------------

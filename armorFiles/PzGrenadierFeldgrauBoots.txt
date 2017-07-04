@@ -1,0 +1,40 @@
+//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name PzGrenadier Feldgrau Boots
+ShortName PzGrenadierFeldgrauBoots
+ItemID Your ID
+
+
+// Visuals
+ModelScale 1
+Icon PzGrenadierBoots
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Boots
+
+
+//Visuals
+Model W44.PzGrenadierFeldgrauBoots
+ArmorTexture SkinPzGrenadierFeldgrau
+
+
+//Armor Settings
+Defence 0.1
+
+//Helmet Settings
+SmokeProtection false
+
+//------------------------------------------------

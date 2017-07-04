@@ -1,0 +1,40 @@
+//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name PzGrenadier Camo Chest
+ShortName PzGrenadierCamoChest
+ItemID Your ID
+
+
+// Visuals
+ModelScale 1
+Icon PzGrenadierCamoChest
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Body
+
+
+//Visuals
+Model W44.PzGrenadierCamoChest
+ArmorTexture SkinPzGrenadierCamoChest
+
+
+//Armor Settings
+Defence 0.2
+
+//Helmet Settings
+SmokeProtection false
+
+//------------------------------------------------

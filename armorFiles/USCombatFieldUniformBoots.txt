@@ -1,0 +1,40 @@
+//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name US Combat Uniform Boots
+ShortName USCombatFieldUniformBoots
+ItemID Your ID
+
+
+// Visuals
+ModelScale 1
+Icon USCombatFieldUniformBoots
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Boots
+
+
+//Visuals
+Model W44.USCombatFieldUniformBoots
+ArmorTexture SkinUSCombatFieldUniform
+
+
+//Armor Settings
+Defence 0.2
+
+//Helmet Settings
+SmokeProtection false
+
+//------------------------------------------------
