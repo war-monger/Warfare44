@@ -1,0 +1,221 @@
+{
+	"TankRun": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TankRun" ]
+	},
+	
+	"TankIdle": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TankIdle" ]
+	},
+	
+	"Kar98kShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Kar98kShoot" ]
+	},
+		
+	"Kar98kReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Kar98kReload" ]
+	},
+		
+	"C96Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:C96Shoot" ]
+	},
+		
+	"20mmCannonShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:20mmCannonShoot" ]
+	},
+
+	"C96Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:C96Reload" ]
+	},
+		
+	"Mp40Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mp40Shoot" ]
+	},
+		
+	"Mg34Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mg34Shoot" ]
+	},
+		
+	"Mg42Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mg42Shoot" ]
+	},
+		
+	"Mg34Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mg34Reload" ]
+	},
+		
+	"Mp40Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mp40Reload" ]
+	},
+		
+	"LugerShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:LugerShoot" ]
+	},
+	
+	"37mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:37mmShoot" ]
+	},
+	
+	"88mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:88mmShoot" ]
+	},
+		
+	"105mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:105mmShoot" ]
+	},
+	
+	"75mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:75mmShoot" ]
+	},
+		
+	"76mmShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:76mmShoot" ]
+	},
+		
+	"TurretTraverse1": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TurretTraverse1" ]
+	},
+	
+	"TurretTraverse2": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TurretTraverse2" ]
+	},
+		
+	"LugerReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:LugerReload" ]
+	},
+		
+	"Modell1915Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Modell1915Shoot" ]
+	},
+		
+	"Modell1915Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Modell1915Reload" ]
+	},
+		
+	"Stg44Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Stg44Shoot" ]
+	},
+		
+	"Stg44Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Stg44Reload" ]
+	},
+		
+	"Fg42Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Fg42Shoot" ]
+	},
+			
+	"G43Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:G43Shoot" ]
+	},
+				
+	"PanzerschreckShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PanzerschreckShoot" ]
+	},
+				
+	"PanzerschreckReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PanzerschreckReload" ]
+	},
+				
+	"ThompsonM1A1Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ThompsonM1A1Shoot" ]
+	},
+				
+	"ThompsonM1A1Reload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ThompsonM1A1Reload" ]
+	},
+				
+	"M1903SpringfieldShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M1903SpringfieldShoot" ]
+	},
+				
+	"WinchesterModel70Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:WinchesterModel70Shoot" ]
+	},
+				
+	"BARShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BARShoot" ]
+	},
+				
+	"BARReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:BARReload" ]
+	},
+				
+	"GreaseGunShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GreaseGunShoot" ]
+	},
+				
+	"GreaseGunReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GreaseGunReload" ]
+	},
+		
+	"M1CarbineShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M1CarbineShoot" ]
+	},
+				
+	"M1CarbineReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M1CarbineReload" ]
+	},
+				
+	"ColtShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ColtShoot" ]
+	},
+		
+	"M1GarandShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M1GarandShoot" ]
+	},
+				
+	"M1GarandReload": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M1GarandReload" ]
+	},
+				
+	"50CalShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:50CalShoot" ]
+	},
+				
+	"30CalShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:30CalShoot" ]
+	}
+}
