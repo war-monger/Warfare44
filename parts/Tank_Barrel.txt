@@ -1,0 +1,14 @@
+Name Tank Barrel
+ShortName Tank_Barrel
+Icon Tank_Barrel
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23457
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe T Metal_Tube B Tank_Gun_Breach M Muzzle_Break
+   
+BTM
+   

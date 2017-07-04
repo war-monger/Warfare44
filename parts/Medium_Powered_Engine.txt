@@ -1,0 +1,17 @@
+Name Medium Powered Engine
+ShortName Medium_Powered_Engine
+Icon Medium_Powered_Engine
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23275
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Engine
+EngineSpeed 1.25
+FuelConsumption 1.5
+WorksWith vehicles planes
+StackSize 4
+RecipeOutput 1
+Recipe I ingotIron P Engine_Piston E Low_Powered_Engine
+IPI
+IEI
+IPI

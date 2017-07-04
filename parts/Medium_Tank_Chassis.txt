@@ -1,0 +1,14 @@
+Name Medium Tank Chassis
+ShortName Medium_Tank_Chassis
+Icon Medium_Tank_Chassis
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23459
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Chassis
+StackSize 4
+RecipeOutput 1
+Recipe I ingotIron D trapdoor W Tank_Wheel
+IDI
+I I
+WWW

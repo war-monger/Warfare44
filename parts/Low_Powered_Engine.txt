@@ -1,0 +1,17 @@
+Name Low Powered Engine
+ShortName Low_Powered_Engine
+Icon Low_Powered_Engine
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23275
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Engine
+EngineSpeed 0.85
+FuelConsumption 1.2
+WorksWith vehicles planes
+StackSize 4
+RecipeOutput 1
+Recipe I ingotIron P Engine_Piston
+PIP
+PIP
+PIP

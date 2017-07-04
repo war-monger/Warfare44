@@ -1,0 +1,14 @@
+Name Tank Track
+ShortName Tank_Track
+Icon Tank_Track
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23461
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Wheel
+StackSize 3
+RecipeOutput 1
+Recipe R Metal_Rod P Track_Link
+RP 
+RP 
+RP 

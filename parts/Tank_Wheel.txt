@@ -1,0 +1,13 @@
+Name Tank Wheel
+ShortName Tank_Wheel
+Icon Tank_Wheel
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Wheel
+StackSize 3
+RecipeOutput 3
+Recipe I ingotIron R Metal_Rod
+ I 
+IRI
+ I 

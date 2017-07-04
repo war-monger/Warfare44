@@ -1,0 +1,14 @@
+Name Vehicle Seat
+ShortName Vehicle_Seat
+Icon Vehicle_Seat
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23464
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 8
+RecipeOutput 2
+Recipe I ingotIron L leather
+ LI
+LLI
+III
