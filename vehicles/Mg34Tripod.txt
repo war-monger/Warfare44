@@ -1,0 +1,64 @@
+//Naming
+Name Mg34 Tripod
+ShortName Mg34Tripod
+//Visuals
+RotateWheels True
+Icon Mg34Tripod
+Model W44.Mg34Tripod
+Texture SkinMg34Tripod
+//Third Person Camera Distance
+CameraDistance 2.5
+//Throttle
+MaxThrottle 0.0
+MaxNegativeThrottle 0.0
+//Steering modifiers
+TurnLeftSpeed 0.0
+TurnRightSpeed 0.0
+//For calculating whether wheels are on the ground or not for driving
+WheelRadius 1.0
+//Wheel positions for collision handling. Tanks still have 4 wheels, they are just the corner ones.
+WheelPosition 0 -4 -8 -4
+WheelPosition 1 -4 -8 4
+WheelPosition 2 4 -8 4
+WheelPosition 3 4 -8 -4
+WheelSpringStrength 0.5
+//Bouncy bouncy
+Bounciness 0.3
+//If true, then all wheels will apply drive forces
+FourWheelDrive true
+//Tank mode activate
+Tank true
+//Fuel Tank Size (1 point of fuel will keep one propeller going with throttle at 1 for 1 tick)
+FuelTankSize 2000
+//Inventory Slots
+CargoSlots 0
+ShellSlots 0
+//Driver and passenger positions
+Driver 0 0 0 -17 17 -18 30
+RotatedDriverOffset -300 0 0
+Passengers 0
+//Secondary gun
+AddGun 5 13 0 turret Mg34
+AllowAllAmmo False
+ShootDelay 3
+//Sounds
+StartSound None
+StartSoundLength None
+EngineSound None
+EngineSoundLength None
+ShootSoundSecondary Mg34Shoot
+//Recipe
+//Each section of the plane may have many parts
+//The sections are tailWheel, tail, bay, topWing, leftWingWheel, leftWing, rightWingWheel,
+//rightWing, nose, turret, coreWheel, core
+AddRecipeParts core 1 Metal_Tube
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+AddDye 10 gray
+
+BulletDetection 5
+
+//Size Multiplier; scales up the model
+ModelScale 1.25
+Description German Mounted Machine Gun
+BulletDetection 5
+CanRoll true
