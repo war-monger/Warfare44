@@ -46,7 +46,7 @@ ShellSlots 3
 
 //----------------------------Driver and passenger positions
 Driver 0 18 0 -360 360 -10 20
-RotatedDriverOffset 0 0 30
+RotatedDriverOffset 0 0 5
 Passengers 0
 //Passenger 1 0 34 0 turret -360 360 -15 60 bren Bren
 
@@ -79,9 +79,9 @@ AddDye 10 gray
 //Health and collision
 
 
-SetupPart core 2500 -52 -1 -13 100 30 32
-SetupPart rightTrack 2300 -52 -10 -16 100 22 6
-SetupPart leftTrack 2300 -52 -10 19 100 22 6
+SetupPart core 500 -52 -1 -13 100 30 32
+SetupPart rightTrack 300 -52 -10 -16 100 22 6
+SetupPart leftTrack 300 -52 -10 19 100 22 6
 
 BulletDetection 5
 
@@ -215,7 +215,3 @@ LeftLinkPoint [-43,8,22.2]
 LeftLinkPoint [-27,10,22.2]
 LeftLinkPoint [30,11,22.2]
 LeftLinkPoint [35,11,22.2]
-
-Harvester true
-HarvestToolType Tank
-HarvestBox [101,30,45] [-51,-10,-27]

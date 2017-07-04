@@ -47,7 +47,7 @@ ShellSlots 5
 
 //----------------------------Driver and passenger positions
 Driver 0 44 0 -360 360 -7 60
-RotatedDriverOffset -120 0 -90
+RotatedDriverOffset -8 0 -6
 Passengers 2
 
 Passenger 1 -1 24 27 core -20 20 -9 20 75mmCannon PassengerGun1
@@ -85,9 +85,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 10 green
 
 //Health and collision
-SetupPart core 2610 -52 0 -15 110 47 49
-SetupPart rightTrack 2410 -52 -10 -15 110 23 8
-SetupPart leftTrack 2410 -52 -10 28 110 23 8
+SetupPart core 610 -52 0 -15 110 47 49
+SetupPart rightTrack 410 -52 -10 -15 110 23 8
+SetupPart leftTrack 410 -52 -10 28 110 23 8
 
 BulletDetection 5
 

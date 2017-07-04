@@ -46,7 +46,7 @@ ShellSlots 5
 
 //----------------------------Driver and passenger positions
 Driver 0 34 0 -360 360 -8 18
-RotatedDriverOffset -130 0 -100
+RotatedDriverOffset -6 0 -8
 Passengers 0
 //Passenger 1 0 34 0 turret -360 360 -15 60 bren Bren
 
@@ -78,9 +78,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 10 gray
 
 //Health and collision
-SetupPart core 3200 -62 0 -30 128 42 60
-SetupPart rightTrack 3000 -51 -10 -30 118 23 10
-SetupPart leftTrack 3000 -51 -10 20 118 23 10
+SetupPart core 1200 -62 0 -30 128 42 60
+SetupPart rightTrack 1000 -51 -10 -30 118 23 10
+SetupPart leftTrack 1000 -51 -10 20 118 23 10
 
 BulletDetection 5
 

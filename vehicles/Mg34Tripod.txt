@@ -35,7 +35,7 @@ CargoSlots 0
 ShellSlots 0
 //Driver and passenger positions
 Driver 0 0 0 -17 17 -18 30
-RotatedDriverOffset -300 0 0
+RotatedDriverOffset -8 0 0
 Passengers 0
 //Secondary gun
 AddGun 5 13 0 turret Mg34

@@ -47,7 +47,7 @@ ShellSlots 5
 
 //----------------------------Driver and passenger positions
 Driver 0 32 0 -360 360 -8 15
-RotatedDriverOffset -150 0 130
+RotatedDriverOffset -10 0 8
 Passengers 0
 //Passenger 1 0 34 0 turret -360 360 -15 60 bren Bren
 
@@ -79,9 +79,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 10 green
 
 //Health and collision
-SetupPart core 2640 -57 -1 -25 115 44 50
-SetupPart rightTrack 2440 -57 -10 -25 115 22 9
-SetupPart leftTrack 2440 -57 -10 16 115 22 9
+SetupPart core 640 -57 -1 -25 115 44 50
+SetupPart rightTrack 440 -57 -10 -25 115 22 9
+SetupPart leftTrack 440 -57 -10 16 115 22 9
 
 //HP +300, Tracks -200
 
@@ -174,7 +174,7 @@ AddEmitter largesmoke 1 [5,43,14] [3,1,3] [0,1,0] -1 1 0 0.5 turret
 
 
 //----------------------------Turret rotation stuff
-DriverAimSpeed 0.4 0.2 0
+DriverAimSpeed 0.7 0.6 0
 
 DriverYawBeforePitch false
 

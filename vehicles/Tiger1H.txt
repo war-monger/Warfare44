@@ -35,7 +35,7 @@ CargoSlots 20
 ShellSlots 5
 //Driver and passenger positions
 Driver 0 38 0 -360 360 -8 15
-RotatedDriverOffset -75 0 -200
+RotatedDriverOffset -7 0 -15
 Passengers 0
 //Passenger 1 0 34 0 turret -360 360 -15 60 bren Bren
 //GunOrigin 1 0 40 0
@@ -64,9 +64,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 10 gray
 
 //Health and collision
-SetupPart core 3400 -58 0 -34 120 43 68
-SetupPart rightTrack 3200 -58 -10 -36 118 21 12
-SetupPart leftTrack 3200 -58 -10 24 118 21 12
+SetupPart core 1400 -58 0 -34 120 43 68
+SetupPart rightTrack 1200 -58 -10 -36 118 21 12
+SetupPart leftTrack 1200 -58 -10 24 118 21 12
 
 BulletDetection 5
 
@@ -97,7 +97,7 @@ PitchSoundLength 20
 //Smoke effects
 
 //Barrel
-BarrelPosition 110 30 0
+BarrelPosition 105 33 0
 
 ShootParticlesPrimary largeexplode 0 0 0
 ShootParticlesPrimary explode 1.5 0 0

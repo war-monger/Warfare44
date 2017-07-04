@@ -32,7 +32,7 @@ CargoSlots 0
 ShellSlots 5
 //Driver and passenger positions
 Driver 0 1 0 -360 360 -5 89
-RotatedDriverOffset -80 0 215
+RotatedDriverOffset -6 0 14
 Passengers 0
 //Delays are in ticks or 1/20ths of seconds
 AddAmmo LargeCalAPShell
@@ -54,7 +54,7 @@ AddRecipeParts core 1 Metal_Tube
 //Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
 AddDye 8 gray
 //Health and collision
-SetupPart core 2350 -20 -10 -20 40 36 40
+SetupPart core 350 -20 -10 -20 40 36 40
 
 BulletDetection 7
 ModelScale 1.2

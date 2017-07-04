@@ -35,11 +35,10 @@ CargoSlots 20
 ShellSlots 5
 //Driver and passenger positions
 Driver 0 42 0 -360 360 -8 15
-RotatedDriverOffset -75 0 -160
+RotatedDriverOffset -6 0 -8
 Passengers 0
 //Passenger 1 0 34 0 turret -360 360 -15 60 bren Bren
 //GunOrigin 1 0 40 0
-BarrelPosition 0 34 0
 AddAmmo LargeCalAPShell
 AddAmmo HEShell
 //Secondary gun
@@ -65,9 +64,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 15 gray
 
 //Health and collision
-SetupPart core 3600 -67 0 -30 142 48 60
-SetupPart rightTrack 3400 -59 -10 -34 132 23 14
-SetupPart leftTrack 3400 -59 -10 20 132 23 14
+SetupPart core 1600 -67 0 -30 142 48 60
+SetupPart rightTrack 1400 -59 -10 -34 132 23 14
+SetupPart leftTrack 1400 -59 -10 20 132 23 14
 
 BulletDetection 5
 
@@ -96,6 +95,61 @@ PitchSoundLength 20
 AddEmitter smoke 1 [-70,25,7] [1,1,1] [0,0.5,0] -1 1 0 1 core
 
 AddEmitter smoke 1 [-70,25,-7] [1,1,1] [0,0.5,0] -1 1 0 1 core
+
+
+//Barrel
+BarrelPosition 120 35 0
+
+ShootParticlesPrimary largeexplode 0 0 0
+ShootParticlesPrimary explode 1.5 0 0
+ShootParticlesPrimary largesmoke 0.5 0 0.1
+ShootParticlesPrimary largesmoke 0.5 0 -0.1
+ShootParticlesPrimary largesmoke 0.5 0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 0.06
+ShootParticlesPrimary largesmoke 0.5 -0.06 -0.06
+ShootParticlesPrimary largesmoke 0.5 -0.1 0
+ShootParticlesPrimary largesmoke 0.5 0.1 0
+ShootParticlesPrimary cloud 0.05 0 0.2
+ShootParticlesPrimary cloud 0.05 0 -0.2
+ShootParticlesPrimary cloud 0.05 0.13 0.13
+ShootParticlesPrimary cloud 0.05 0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.13 0.13
+ShootParticlesPrimary cloud 0.05 -0.13 -0.13
+ShootParticlesPrimary cloud 0.05 -0.2 0
+ShootParticlesPrimary cloud 0.05 0.2 0
+ShootParticlesPrimary flansmod.fmflame 1 0 0
+ShootParticlesPrimary flansmod.fmflame 1.75 0 0
+ShootParticlesPrimary flansmod.fmflame 1.5 0 0
+ShootParticlesPrimary flansmod.fmflame 1.25 0 0
+ShootParticlesPrimary flansmod.fmflame 0.75 0 0
+ShootParticlesPrimary flansmod.fmflame 0.5 0 0
+ShootParticlesPrimary flansmod.fmflame 0.25 0 0
+ShootParticlesPrimary flansmod.fmflame 1.5 0 0
+ShootParticlesPrimary flansmod.fmflame 0.5 0 0.1
+ShootParticlesPrimary flansmod.fmflame 0.5 0 -0.1
+ShootParticlesPrimary flansmod.fmflame 0.5 0.06 0.06
+ShootParticlesPrimary flansmod.fmflame 0.5 0.06 -0.06
+ShootParticlesPrimary flansmod.fmflame 0.5 -0.06 0.06
+ShootParticlesPrimary flansmod.fmflame 0.5 -0.06 -0.06
+ShootParticlesPrimary flansmod.fmflame 0.5 -0.1 0
+ShootParticlesPrimary flansmod.fmflame 0.5 0.1 0
+ShootParticlesPrimary flansmod.fmflame 0.05 0 0.2
+ShootParticlesPrimary flansmod.fmflame 0.05 0 -0.2
+ShootParticlesPrimary flansmod.fmflame 0.05 0.13 0.13
+ShootParticlesPrimary flansmod.fmflame 0.05 0.13 -0.13
+ShootParticlesPrimary flansmod.fmflame 0.05 -0.13 0.13
+ShootParticlesPrimary flansmod.fmflame 0.05 -0.13 -0.13
+ShootParticlesPrimary flansmod.fmflame 0.05 -0.2 0
+ShootParticlesPrimary flansmod.fmflame 0.05 0.2 0
+ShootParticlesPrimary flansmod.fmflame 0.1 0 0.4
+ShootParticlesPrimary flansmod.fmflame 0.1 0 -0.4
+ShootParticlesPrimary flansmod.fmflame 0.1 0.26 0.26
+ShootParticlesPrimary flansmod.fmflame 0.1 0.26 -0.26
+ShootParticlesPrimary flansmod.fmflame 0.1 -0.26 0.26
+ShootParticlesPrimary flansmod.fmflame 0.1 -0.26 -0.26
+ShootParticlesPrimary flansmod.fmflame 0.1 -0.4 0
+ShootParticlesPrimary flansmod.fmflame 0.1 0.4 0
 
 
 //Damage
