@@ -1,0 +1,25 @@
+Name Pistol Barrel
+ShortName PistolBarrel
+Icon PistolBarrel
+//The type of attachment defines what slot in the gun it takes. Types are "generic", "barrel", "scope", "stock" and "grip"
+AttachmentType barrel
+//If true, then this attachment will muffle all sounds from the gun. Needn't be a barrel attachment
+Silencer false
+//These multipliers stack between attachments and do what they say
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.2
+SpreadMultiplier 0.5
+RecoilMultiplier 1.0
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.0
+//Model
+Model W44.PistolBarrel
+Texture SkinPistolBarrel
+ModelScale 0.15
+//Recipe
+RecipeOutput 1
+Recipe I ingotIron G thinGlass
+   
+  G
+III
+Description Extended Barrel for Luger & C96
