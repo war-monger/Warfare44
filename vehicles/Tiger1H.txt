@@ -43,7 +43,8 @@ AddAmmo LargeCalAPShell
 AddAmmo HEShell
 //Secondary gun
 //Delays are in ticks or 1/20ths of seconds
-ShootDelay 1
+AddGun 28 34 6 turret Mg34
+ShootDelay 3
 ShellDelay 265
 //Sounds
 StartSound TankIdle
@@ -51,7 +52,7 @@ StartSoundLength 20
 EngineSound TankMove
 EngineSoundLength 75
 ShootSoundPrimary 88mmShoot
-ShootSoundSecondary MG42Shoot
+ShootSoundSecondary Mg34Shoot
 //Recipe
 //Each section of the plane may have many parts
 //The sections are tailWheel, tail, bay, topWing, leftWingWheel, leftWing, rightWingWheel,
@@ -97,6 +98,7 @@ PitchSoundLength 20
 //Smoke effects
 
 //Barrel
+ShootParticlesSecondary crit 0.5 0 0
 BarrelPosition 105 33 0
 
 ShootParticlesPrimary largeexplode 0 0 0
