@@ -14,29 +14,29 @@ III
 //And with parts from this mod, they are the shortName of the item
 //Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
 NumGuns 9
-AddGun M1Carbine 1 Gun_Barrel 1 Receiver 3 log 3 ingotIron 1 Trigger
+AddGun M1Carbine 1 Gun_Barrel 1 Reciever 3 log 3 ingotIron 1 Trigger
 AddAmmo M1CarbineAmmo 1 Magazine 3 ingotIron 1 gunpowder
 
-AddGun M1903Springfield 1 Gun_Barrel 1 Receiver 4 log 2 ingotIron 1 Trigger
+AddGun M1903Springfield 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
 AddAmmo M1903SpringfieldAmmo 3 ingotIron 2 gunpowder
 
-AddGun WinchesterModel70 1 Gun_Barrel 1 Receiver 4 log 2 ingotIron 1 Trigger
+AddGun WinchesterModel70 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
 AddAmmo WinchesterModel70Ammo 2 ingotIron 2 gunpowder
 
-AddGun ThompsonM1A1 1 Gun_Barrel 1 Receiver 2 log 4 ingotIron 1 Grip
+AddGun ThompsonM1A1 1 Gun_Barrel 1 Reciever 2 log 4 ingotIron 1 Grip
 AddAmmo ThompsonM1A1Ammo 1 Magazine 1 ingotIron 1 gunpowder
 
-AddGun BAR 1 Gun_Barrel 1 Receiver 2 log 6 ingotIron 1 Grip
+AddGun BAR 1 Gun_Barrel 1 Reciever 2 log 6 ingotIron 1 Grip
 AddAmmo BARAmmo 1 Magazine 4 ingotIron 1 gunpowder
 
-AddGun GreaseGun 1 Gun_Barrel 1 Receiver 5 ingotIron 1 Grip
+AddGun GreaseGun 1 Gun_Barrel 1 Reciever 5 ingotIron 1 Grip
 AddAmmo GreaseGunAmmo 1 Magazine 1 ingotIron 1 gunpowder
 
-AddGun Colt 1 Gun_Barrel 1 Receiver 1 ingotIron 1 Grip
+AddGun Colt 1 Gun_Barrel 1 Reciever 1 ingotIron 1 Grip
 AddAmmo ColtAmmo 1 Magazine 1 ingotIron 1 gunpowder
 
-AddGun 30Cal 1 Gun_Barrel 1 Receiver 10 ingotIron 1 Grip
+AddGun 30Cal 1 Gun_Barrel 1 Reciever 10 ingotIron 1 Grip
 AddAmmo 30CalAmmo 5 ingotIron 5 gunpowder
 
-AddGun 50Cal 1 Gun_Barrel 1 Receiver 2 log 2 ingotIron 1 Grip
+AddGun 50Cal 1 Gun_Barrel 1 Reciever 2 log 2 ingotIron 1 Grip
 AddAmmo 50CalAmmo 1 Magazine 7 ingotIron 7 gunpowder
