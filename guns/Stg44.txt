@@ -38,7 +38,7 @@ AllowGripAttachments false
 
 //Recoil
 Recoil 2.5
-RandomRecoilRange 1.50
+RandomRecoilRange 1.00
 RandomRecoilYawRange 2.0
 DecreaseRecoil 0.75
 DecreaseRecoilYaw 1.25
