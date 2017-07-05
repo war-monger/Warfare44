@@ -13,7 +13,7 @@ Damage 6
 //The higher this value, the more the bullets spread
 Accuracy 7
 //Time in ticks between rounds
-ShootDelay 4
+ShootDelay 2
 ShootSound ColtShoot
 ReloadSound LugerReload
 Mode SemiAuto
@@ -36,10 +36,16 @@ AllowStockAttachments false
 AllowGripAttachments false
 
 //Recoil
-Recoil 5.50
-RandomRecoilRange 1.75
-RandomRecoilYawRange 2.25
+Recoil 2.50
+RandomRecoilRange 0.8
+RandomRecoilYawRange 0.8
 DecreaseRecoil 0.50
 DecreaseRecoilYaw 1.00
 
-Description German Pistol
+//Recoil 5.50
+//RandomRecoilRange 1.75
+//RandomRecoilYawRange 2.25
+//DecreaseRecoil 0.50
+//DecreaseRecoilYaw 1.00
+
+Description American Pistol
