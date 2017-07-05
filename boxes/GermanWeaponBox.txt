@@ -14,40 +14,40 @@ III
 //And with parts from this mod, they are the shortName of the item
 //Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
 NumGuns 13
-AddGun Kar98k 1 Gun_Barrel 1 Receiver 4 log 2 ingotIron 1 Trigger
+AddGun Kar98k 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
 AddAmmo Kar98kAmmo 3 ingotIron 2 gunpowder
 
-AddGun Modell1915 1 Gun_Barrel 1 Receiver 4 log 2 ingotIron 1 Trigger
+AddGun Modell1915 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
 AddAmmo Modell1915Ammo 1 Magazine 2 ingotIron 2 gunpowder
 
-AddGun G43 1 Gun_Barrel 1 Receiver 4 log 2 ingotIron 1 Trigger
+AddGun G43 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
 AddAmmo G43Ammo 1 Magazine 2 ingotIron 2 gunpowder
 
-AddGun Fg42 1 Gun_Barrel 1 Receiver 4 log 2 ingotIron 1 Grip
+AddGun Fg42 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Grip
 AddAmmo Fg42Ammo 1 Magazine 2 ingotIron 1 gunpowder
 
-AddGun Mp40 1 Gun_Barrel 1 Receiver 5 ingotIron 1 Grip
+AddGun Mp40 1 Gun_Barrel 1 Reciever 5 ingotIron 1 Grip
 AddAmmo Mp40Ammo 1 Magazine 1 ingotIron 1 gunpowder
 
-AddGun Stg44 1 Gun_Barrel 1 Receiver 2 log 5 ingotIron 1 Grip
+AddGun Stg44 1 Gun_Barrel 1 Reciever 2 log 5 ingotIron 1 Grip
 AddAmmo Stg44Ammo 1 Magazine 4 ingotIron 1 gunpowder
 
-AddGun Mg34 1 Gun_Barrel 1 Receiver 2 log 10 ingotIron 1 Grip
+AddGun Mg34 1 Gun_Barrel 1 Reciever 2 log 10 ingotIron 1 Grip
 AddAmmo Mg34Ammo 5 ingotIron 5 gunpowder
 
-AddGun Mg42 1 Gun_Barrel 1 Receiver 2 log 10 ingotIron 1 Grip
+AddGun Mg42 1 Gun_Barrel 1 Reciever 2 log 10 ingotIron 1 Grip
 AddAmmo Mg42Ammo 1 Magazine 7 ingotIron 7 gunpowder
 
-AddGun C96 1 Gun_Barrel 1 Receiver 2 ingotIron 1 Grip
+AddGun C96 1 Gun_Barrel 1 Reciever 2 ingotIron 1 Grip
 AddAmmo C96Ammo 1 Magazine 2 ingotIron 2 gunpowder
 
-AddGun Luger 1 Gun_Barrel 1 Receiver 1 ingotIron 1 Grip
+AddGun Luger 1 Gun_Barrel 1 Reciever 1 ingotIron 1 Grip
 AddAmmo LugerAmmo 1 Magazine 1 ingotIron 1 gunpowder
 
-AddGun Mg15 1 Gun_Barrel 1 Receiver 9 ingotIron 1 Grip
+AddGun Mg15 1 Gun_Barrel 1 Reciever 9 ingotIron 1 Grip
 AddAmmo Mg15Ammo 1 Magazine 6 ingotIron 6 gunpowder
 
-AddGun Mg17 1 Gun_Barrel 1 Receiver 9 ingotIron 1 Grip
+AddGun Mg17 1 Gun_Barrel 1 Reciever 9 ingotIron 1 Grip
 AddAmmo Mg17Ammo 1 Magazine 5 ingotIron 5 gunpowder
 
 AddGun Panzerschreck 1 Metal_Tube 12 ingotIron 1 Trigger
