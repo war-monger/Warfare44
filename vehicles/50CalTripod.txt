@@ -56,7 +56,7 @@ AddRecipeParts core 1 Metal_Tube
 AddDye 10 gray
 
 //Health and collision
-SetupPart core 100 -40 -8 -18 60 24 36
+SetupPart core 100 -20 -8 -18 36 24 36
 
 BulletDetection 5
 
