@@ -1,6 +1,6 @@
-Name Receiver
-ShortName Receiver
-Icon Receiver
+Name Reciever
+ShortName Reciever
+Icon Reciever
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 ItemID 23279
