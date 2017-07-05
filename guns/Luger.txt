@@ -13,7 +13,7 @@ Damage 5
 //The higher this value, the more the bullets spread
 Accuracy 6
 //Time in ticks between rounds
-ShootDelay 7
+ShootDelay 3
 ShootSound LugerShoot
 ReloadSound LugerReload
 Mode SemiAuto
