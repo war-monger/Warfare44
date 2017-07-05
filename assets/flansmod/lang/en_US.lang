@@ -124,3 +124,6 @@ item.USCombatFieldUniformBoots.name=US Combat Field Uniform Boots
 item.USCombatFieldUniformChest.name=US Combat Field Uniform Chest
 item.USCombatFieldUniformHelmet.name=US Combat Field Uniform Helmet
 item.USCombatFieldUniformPants.name=US Combat Field Uniform Pants
+item.FuelCan.name=Fuel Can
+item.RepairTool.name=Repair Tool
+
