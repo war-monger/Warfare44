@@ -4,10 +4,10 @@ TopTexture WeaponBoxTop
 SideTexture AmericanWeaponBox
 BottomTexture WeaponBoxBottom
 GunBoxID 151
-Recipe I ingotIron
-III
-II 
-III
+Recipe I ingotIron L log F AmericanFlag
+LLL
+IFI
+LLL
 //AddGun shortName amountOf item
 //AddAmmo must come immediately after AddGun for them to be in the same slot
 //The names of the items / blocks are those in the code, with some exceptions such as ingotIron (ingotingotIron) and gunpowder (sulphur)
