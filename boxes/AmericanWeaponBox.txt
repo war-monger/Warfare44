@@ -13,7 +13,7 @@ III
 //The names of the items / blocks are those in the code, with some exceptions such as ingotIron (ingotingotIron) and gunpowder (sulphur)
 //And with parts from this mod, they are the shortName of the item
 //Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
-NumGuns 7
+NumGuns 9
 AddGun M1Carbine 1 Gun_Barrel 1 Receiver 3 log 3 ingotIron 1 Trigger
 AddAmmo M1CarbineAmmo 1 Magazine 3 ingotIron 1 gunpowder
 
@@ -34,3 +34,9 @@ AddAmmo GreaseGunAmmo 1 Magazine 1 ingotIron 1 gunpowder
 
 AddGun Colt 1 Gun_Barrel 1 Receiver 1 ingotIron 1 Grip
 AddAmmo ColtAmmo 1 Magazine 1 ingotIron 1 gunpowder
+
+AddGun 30Cal 1 Gun_Barrel 1 Receiver 10 ingotIron 1 Grip
+AddAmmo 30CalAmmo 5 ingotIron 5 gunpowder
+
+AddGun 50Cal 1 Gun_Barrel 1 Receiver 2 log 2 ingotIron 1 Grip
+AddAmmo 50CalAmmo 1 Magazine 7 ingotIron 7 gunpowder
