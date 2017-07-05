@@ -13,7 +13,7 @@ Damage 8
 //The higher this value, the more the bullets spread
 Accuracy 4
 //Time in ticks between rounds
-ShootDelay 6
+ShootDelay 4
 ShootSound M1GarandShoot
 ReloadSound M1GarandReload
 Mode SemiAuto
@@ -36,8 +36,8 @@ AllowStockAttachments false
 AllowGripAttachments false
 
 //Recoil
-Recoil 5
-RandomRecoilRange 2.00
+Recoil 4
+RandomRecoilRange 1.00
 RandomRecoilYawRange 2.00
 DecreaseRecoil 0.50
 DecreaseRecoilYaw 1.00
