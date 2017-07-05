@@ -13,7 +13,7 @@ Damage 9
 //The higher this value, the more the bullets spread
 Accuracy 4
 //Time in ticks between rounds
-ShootDelay 10
+ShootDelay 5
 ShootSound G43Shoot
 ReloadSound Stg44Reload
 Mode SemiAuto
