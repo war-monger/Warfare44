@@ -12,9 +12,9 @@ Recoil 7
 //Damage in half hearts
 Damage 6
 //The higher this value, the more the bullets spread
-Accuracy 6
+Accuracy 8
 //Time in ticks between rounds
-ShootDelay 3
+ShootDelay 2
 ShootSound Mg34Shoot
 ReloadSound Mg34Reload
 Mode FullAuto SemiAuto
