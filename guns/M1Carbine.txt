@@ -37,9 +37,16 @@ AllowGripAttachments false
 
 //Recoil
 Recoil 3
-RandomRecoilRange 2.00
-RandomRecoilYawRange 2.00
+RandomRecoilRange 1.00
+RandomRecoilYawRange 1.00
 DecreaseRecoil 0.50
 DecreaseRecoilYaw 1.00
+
+//Recoil 3
+//RandomRecoilRange 2.00
+//RandomRecoilYawRange 2.00
+//DecreaseRecoil 0.50
+//DecreaseRecoilYaw 1.00
+
 
 Description American Semi/Auto Rifle
