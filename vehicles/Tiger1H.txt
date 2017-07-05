@@ -78,7 +78,7 @@ BulletDetection 5
 
 //Size Multiplier; scales up the model
 ModelScale 1.2
-Description German Heavy Tank
+Description German Heavy Tank__Uses Large Cal. AP Shell__Year Introduced : 1942
 
 CanRoll true
 
