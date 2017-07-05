@@ -27,7 +27,7 @@ Scope None
 Deployable False
 DeployedModel None
 Model W44.Fg42
-Texture SkinFg42
+Texture SkinFG42
 ModelScale 0.85
 AllowAttachments ZF4Scope ZF41Scope OpticalSight PistolStock
 AllowBarrelAttachments false
@@ -36,10 +36,10 @@ AllowStockAttachments false
 AllowGripAttachments false
 
 //Recoil
-Recoil 3
-RandomRecoilRange 1.50
-RandomRecoilYawRange 2.0
+Recoil 2
+RandomRecoilRange 0.75
+RandomRecoilYawRange 0.75
 DecreaseRecoil 0.75
-DecreaseRecoilYaw 1.25
+DecreaseRecoilYaw 0.50
 
 Description German Automatic Rifle
