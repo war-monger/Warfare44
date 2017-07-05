@@ -39,7 +39,7 @@ AllowGripAttachments false
 Recoil 4.5
 RandomRecoilRange 1.50
 RandomRecoilYawRange 2.0
-DecreaseRecoil 0.75
+DecreaseRecoil 1.0
 DecreaseRecoilYaw 1.25
 
-Description German Sub Machine Gun
+Description American Sub Machine Gun
