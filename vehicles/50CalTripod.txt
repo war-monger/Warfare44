@@ -55,6 +55,9 @@ AddRecipeParts core 1 Metal_Tube
 //Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
 AddDye 10 gray
 
+//Health and collision
+SetupPart core 100 -40 -8 -18 60 24 36
+
 BulletDetection 5
 
 //Size Multiplier; scales up the model
