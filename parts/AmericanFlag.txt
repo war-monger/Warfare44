@@ -1,0 +1,14 @@
+Name American Flag
+ShortName AmericanFlag
+Icon AmericanFlag
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 23279
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 6
+RecipeOutput 3
+Recipe B dyePowder.4 R dyePowder.1 W dyePowder.15
+BRR
+WWW
+RRR
