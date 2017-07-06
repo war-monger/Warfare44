@@ -1,7 +1,7 @@
 tile.AmericanWeaponBox.name=American Weapon Box
 tile.GermanWeaponBox.name=German Weapon Box
-tile.AmericanFlag.name=American Flag
-tile.GermanFlag.name=German Flag
+item.AmericanFlag.name=American Flag
+item.GermanFlag.name=German Flag
 item.M3InfraredScope.name=M3 Infrared Scope
 item.OpticalSight.name=Optical Sight
 item.PistolBarrel.name=Pistol Barrel
