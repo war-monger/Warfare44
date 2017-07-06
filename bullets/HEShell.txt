@@ -34,6 +34,7 @@ Bomb False
 Shell True
 RecipeOutput 6
 Recipe I ingotIron G gunpowder T tnt
+   
 GIG
 TTT
 //WeaponType : One of Missile, Shell, Bomb, Gun, None. Only affects driveable entities
