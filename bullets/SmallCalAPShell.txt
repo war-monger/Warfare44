@@ -33,10 +33,10 @@ SmokeTrail True
 Bomb False
 Shell True
 RecipeOutput 12
-Recipe I ingotIron G gunpowder
+Recipe I ingotIron G gunpowder T Metal_Tube
  I 
  G 
-   
+ T 
 //WeaponType : One of Missile, Shell, Bomb, Gun, None. Only affects driveable entities
 WeaponType Shell
 Description 37-47mm Guns
