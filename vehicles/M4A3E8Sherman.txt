@@ -46,7 +46,7 @@ CargoSlots 20
 ShellSlots 5
 
 //----------------------------Driver and passenger positions
-Driver 0 35 0 -360 360 -8 15
+Driver 0 35 0 -360 360 -10 25
 RotatedDriverOffset -9 0 8
 Passengers 0
 //Passenger 1 0 34 0 turret -360 360 -15 60 bren Bren
