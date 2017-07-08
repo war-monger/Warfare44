@@ -55,7 +55,7 @@ AddRecipeParts core 1 Metal_Tube
 //Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
 AddDye 5 gray
 //Health and collision
-SetupPart core 250 -40 -8 -18 60 24 36
+SetupPart core 750 -40 -8 -18 60 24 36
 BulletDetection 7
 ModelScale 1.1
 Description American Anti-Tank Gun__Uses Medium Cal. AP Shell__Year Introduced : 1941
