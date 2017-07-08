@@ -78,9 +78,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 10 gray
 
 //Health and collision
-SetupPart core 800 -47 -2 -23 100 37 46
-SetupPart rightTrack 600 -47 -10 -27 99 22 10
-SetupPart leftTrack 600 -47 -10 17 99 22 10
+SetupPart core 4800 -47 -2 -23 100 37 46
+SetupPart rightTrack 4600 -47 -10 -27 99 22 10
+SetupPart leftTrack 4600 -47 -10 17 99 22 10
 
 BulletDetection 5
 
