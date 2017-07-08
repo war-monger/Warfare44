@@ -2,7 +2,7 @@ Name Panzerschreck
 ShortName Panzerschreck
 //The ammo this gun uses (shortName)
 Ammo PanzerschreckAmmo
-Icon Panzerschreck
+Icon PanzerSchreck
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 //Reload time in ticks, 1/20ths of a second
