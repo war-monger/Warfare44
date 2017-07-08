@@ -24,8 +24,8 @@ Texture SkinM3InfraredScope
 ModelScale 0.17
 //Recipe
 RecipeOutput 1
-Recipe I ingotIron G Glass_Lens
+Recipe I ingotIron G Glass_Lens F glowstone
 IIG
-G G
+GFG
 III
 Description American Infared-powered Scope
