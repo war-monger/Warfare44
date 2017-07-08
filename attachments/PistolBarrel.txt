@@ -18,8 +18,8 @@ Texture SkinPistolBarrel
 ModelScale 0.15
 //Recipe
 RecipeOutput 1
-Recipe I ingotIron G thinGlass
+Recipe I ingotIron L log
    
-  G
 III
+L  
 Description Extended Barrel for Luger & C96
