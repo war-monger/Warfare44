@@ -9,7 +9,7 @@ Colour 255 255 255
 ReloadTime 83
 //The amount of gun recoil, all relative : Sten = 1, Mg42 = 3, Mg42Sniper = 20
 //Damage in half hearts
-Damage 7
+Damage 8
 //The higher this value, the more the bullets spread
 Accuracy 4
 //Time in ticks between rounds
