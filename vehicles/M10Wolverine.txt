@@ -79,9 +79,9 @@ AddRecipeParts rightTrack 1 Tank_Track
 AddDye 10 green
 
 //Health and collision
-SetupPart core 640 -57 -1 -25 115 44 50
-SetupPart rightTrack 440 -57 -10 -25 115 22 9
-SetupPart leftTrack 440 -57 -10 16 115 22 9
+SetupPart core 3640 -57 -1 -25 115 44 50
+SetupPart rightTrack 3440 -57 -10 -25 115 22 9
+SetupPart leftTrack 3440 -57 -10 16 115 22 9
 
 //HP +300, Tracks -200
 
