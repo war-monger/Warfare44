@@ -79,9 +79,9 @@ AddDye 10 gray
 //Health and collision
 
 
-SetupPart core 500 -52 -1 -13 100 30 32
-SetupPart rightTrack 300 -52 -10 -16 100 22 6
-SetupPart leftTrack 300 -52 -10 19 100 22 6
+SetupPart core 3500 -52 -1 -13 100 30 32
+SetupPart rightTrack 3300 -52 -10 -16 100 22 6
+SetupPart leftTrack 3300 -52 -10 19 100 22 6
 
 BulletDetection 5
 
