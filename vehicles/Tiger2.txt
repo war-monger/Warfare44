@@ -79,7 +79,7 @@ BulletDetection 5
 CanRoll true
 
 //Turret Rotation stuff
-DriverAimSpeed 1 1 0
+DriverAimSpeed 0.6 0.7 0
 Driver YawBeforePitch false
 DriverTraverseSounds true
 
