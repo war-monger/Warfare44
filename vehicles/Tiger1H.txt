@@ -83,7 +83,7 @@ Description German Heavy Tank__Uses Large Cal. AP Shell__Year Introduced : 1942
 CanRoll true
 
 //Turret Rotation stuff
-DriverAimSpeed 0.7 0.7 0
+DriverAimSpeed 0.4 0.5 0
 Driver YawBeforePitch false
 DriverTraverseSounds true
 
