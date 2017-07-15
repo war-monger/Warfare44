@@ -48,9 +48,9 @@ ShootDelay 3
 ShellDelay 265
 //Sounds
 StartSound TankIdle
-StartSoundLength 20
-EngineSound TankMove
-EngineSoundLength 75
+StartSoundLength 40
+EngineSound TankRun
+EngineSoundLength 40
 ShootSoundPrimary 88mmShoot
 ShootSoundSecondary Mg34Shoot
 //Recipe
