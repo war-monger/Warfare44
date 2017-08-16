@@ -1,0 +1,40 @@
+//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Soviet Summer Obr43 Pants
+ShortName SovietSummerObr43Pants
+ItemID Your ID
+
+
+// Visuals
+ModelScale 1
+Icon SovietSummerObr43Pants
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Pants
+
+
+//Visuals
+Model W44.SovietSummerObr43Pants
+ArmorTexture SkinSovietSummerObr43
+
+
+//Armor Settings
+Defence 0.2
+
+//Helmet Settings
+SmokeProtection false
+
+//------------------------------------------------

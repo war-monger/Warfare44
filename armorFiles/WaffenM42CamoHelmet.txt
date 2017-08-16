@@ -1,0 +1,40 @@
+//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.0.0
+
+
+//---Standard-------------------------------------
+// Naming
+Name Waffen M42Camo Helmet
+ShortName WaffenM42CamoHelmet
+ItemID Your ID
+
+
+// Visuals
+ModelScale 1
+Icon WaffenM42CamoHelmet
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Helmet
+
+
+//Visuals
+Model W44.WaffenM42CamoHelmet
+ArmorTexture SkinWaffenM42Camo
+
+
+//Armor Settings
+Defence 0.1
+
+//Helmet Settings
+SmokeProtection false
+
+//------------------------------------------------
