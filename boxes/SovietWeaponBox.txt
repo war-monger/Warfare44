@@ -1,0 +1,36 @@
+Name Soviet Weapon Box
+ShortName SovietWeaponBox
+TopTexture WeaponBoxTop
+SideTexture SovietWeaponBox
+BottomTexture WeaponBoxBottom
+GunBoxID 150
+Recipe I ingotIron L log F SovietFlag
+LLL
+IFI
+LLL
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as ingotIron (ingotingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+NumGuns 7
+AddGun MosinNagant 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
+AddAmmo MosinNagantAmmo 3 ingotIron 2 gunpowder
+
+AddGun SVT40 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
+AddAmmo SVT40Ammo 1 Magazine 2 ingotIron 2 gunpowder
+
+AddGun SKS 1 Gun_Barrel 1 Reciever 4 log 2 ingotIron 1 Trigger
+AddAmmo SKSAmmo 1 Magazine 2 ingotIron 2 gunpowder
+
+AddGun PPs43 1 Gun_Barrel 1 Reciever 5 ingotIron 1 Grip
+AddAmmo PPs43Ammo 1 Magazine 1 ingotIron 1 gunpowder
+
+AddGun PPSh41 1 Gun_Barrel 1 Reciever 3 log 4 ingotIron 1 Grip
+AddAmmo PPSh41Ammo 1 Magazine 4 ingotIron 1 gunpowder
+
+AddGun DP28 1 Gun_Barrel 1 Reciever 2 log 10 ingotIron 1 Grip
+AddAmmo DP28Ammo 5 ingotIron 5 gunpowder
+
+AddGun TT33 1 Gun_Barrel 1 Reciever 1 ingotIron 1 Grip
+AddAmmo TT33Ammo 1 Magazine 1 ingotIron 1 gunpowder
