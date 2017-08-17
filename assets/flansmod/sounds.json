@@ -9,6 +9,16 @@
 		"sounds" : [ "flansmod:TankIdle" ]
 	},
 	
+	"JeepIdle": {
+		"category" : "player",
+		"sounds" : [ "flansmod:JeepIdle" ]
+	},
+	
+	"JeepMove": {
+		"category" : "player",
+		"sounds" : [ "flansmod:JeepMove" ]
+	},
+	
 	"Kar98kShoot": {
 		"category" : "player",
 		"sounds" : [ "flansmod:Kar98kShoot" ]
@@ -217,5 +227,30 @@
 	"30CalShoot": {
 		"category" : "player",
 		"sounds" : [ "flansmod:30CalShoot" ]
+	},
+				
+	"MosinNagantShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MosinNagantShoot" ]
+	},
+				
+	"PPSh41Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PPSh41Shoot" ]
+	},
+				
+	"DP28Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:DP28Shoot" ]
+	},
+	
+	"PPs43Shoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:PPs43Shoot" ]
+	},
+	
+	"SKSShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SKSShoot" ]
 	}
 }
