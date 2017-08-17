@@ -1,20 +1,20 @@
-Name Luger
-ShortName Luger
+Name TT33
+ShortName TT33
 //The ammo this gun uses (shortName)
-Ammo LugerAmmo
-Icon Luger
+Ammo TT33Ammo
+Icon TT33
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 //Reload time in ticks, 1/20ths of a second
 ReloadTime 50
-//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, LugerSniper = 20
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, TT33Sniper = 20
 //Damage in half hearts
-Damage 5
+Damage 6
 //The higher this value, the more the bullets spread
-Accuracy 6
+Accuracy 7
 //Time in ticks between rounds
-ShootDelay 3
-ShootSound LugerShoot
+ShootDelay 2
+ShootSound ColtShoot
 ReloadSound LugerReload
 Mode SemiAuto
 IgnoreArmorProbability 0.5
@@ -26,20 +26,26 @@ BulletSpeed 100.0
 Scope None
 Deployable False
 DeployedModel None
-Model W44.Luger
-Texture SkinLuger
-ModelScale 0.15
+Model W44.TT33
+Texture SkinTT33
+ModelScale 0.7
 AllowAttachments ZF4Scope ZF41Scope OpticalSight PistolStock PistolBarrel
-AllowBarrelAttachments True
+AllowBarrelAttachments false
 AllowScopeAttachments true
-AllowStockAttachments True
+AllowStockAttachments false
 AllowGripAttachments false
 
 //Recoil
-Recoil 4.00
-RandomRecoilRange 1.75
-RandomRecoilYawRange 2.25
+Recoil 2.50
+RandomRecoilRange 0.8
+RandomRecoilYawRange 0.8
 DecreaseRecoil 0.50
 DecreaseRecoilYaw 1.00
 
-Description German Pistol
+//Recoil 5.50
+//RandomRecoilRange 1.75
+//RandomRecoilYawRange 2.25
+//DecreaseRecoil 0.50
+//DecreaseRecoilYaw 1.00
+
+Description Soviet Pistol

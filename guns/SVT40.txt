@@ -1,46 +1,45 @@
-Name Mg34
-ShortName Mg34
+Name SVT40
+ShortName SVT40
 //The ammo this gun uses (shortName)
-Ammo Mg34Ammo
-Icon Mg34
+Ammo SVT40Ammo
+Icon SVT40
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 //Reload time in ticks, 1/20ths of a second
-ReloadTime 53
-//The amount of gun recoil, all relative : Sten = 1, Mg34 = 3, Mg34Sniper = 20
-Recoil 7
+ReloadTime 79
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, SVT40Sniper = 20
 //Damage in half hearts
-Damage 6
+Damage 9
 //The higher this value, the more the bullets spread
-Accuracy 8
+Accuracy 4
 //Time in ticks between rounds
-ShootDelay 2
-ShootSound Mg34Shoot
-ReloadSound Mg34Reload
-Mode FullAuto SemiAuto
+ShootDelay 5
+ShootSound G43Shoot
+ReloadSound Stg44Reload
+Mode SemiAuto
 IgnoreArmorProbability 0.5
 IgnoreArmorDamageFactor 1.0
 //Modifiers
-MoveSpeedModifier 0.55
+MoveSpeedModifier 0.85
 //Bullet speed, default 3.0
-BulletSpeed 50.0
+BulletSpeed 100.0
 Scope None
 Deployable False
 DeployedModel None
-Model W44.Mg34
-Texture SkinMg34
-ModelScale 1.25
+Model W44.SVT40
+Texture SkinSVT40
+ModelScale 0.25
 AllowAttachments OpticalSight
 AllowBarrelAttachments false
 AllowScopeAttachments true
-AllowStockAttachments true
+AllowStockAttachments false
 AllowGripAttachments false
 
 //Recoil
-Recoil 2.5
-RandomRecoilRange 1.50
-RandomRecoilYawRange 2.0
-DecreaseRecoil 0.75
-DecreaseRecoilYaw 1.25
+Recoil 4
+RandomRecoilRange 2.00
+RandomRecoilYawRange 2.00
+DecreaseRecoil 0.50
+DecreaseRecoilYaw 1.00
 
-Description German Light Machine Gun
+Description Soviet Semi/Auto Rifle
