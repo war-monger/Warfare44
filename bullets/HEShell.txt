@@ -15,7 +15,7 @@ Damage 50
 DamageVsLiving 125
 DamageVsVehicles 300
 //Size of explosion caused
-Explosion 5
+Explosion 3
 //True if bullet explodes on hitting anything. Fuse denotes the maximum time it may spend in the air before detonating
 ExplodeOnImpact True
 Fuse 500
@@ -34,7 +34,6 @@ Bomb False
 Shell True
 RecipeOutput 6
 Recipe I ingotIron G gunpowder T tnt
-   
 GIG
 TTT
 //WeaponType : One of Missile, Shell, Bomb, Gun, None. Only affects driveable entities

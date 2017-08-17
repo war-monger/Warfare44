@@ -12,8 +12,8 @@ RoundsPerItem 1
 MaxStackSize 16
 //The damage multiplier caused by the bullet on hitting an entity
 Damage 50
-DamageVsLiving 75
-DamageVsVehicles 1250
+DamageVsLiving 25
+DamageVsVehicles 2300
 //Size of explosion caused
 Explosion 1
 //True if bullet explodes on hitting anything. Fuse denotes the maximum time it may spend in the air before detonating
@@ -33,10 +33,9 @@ SmokeTrail True
 Bomb False
 Shell True
 RecipeOutput 6
-Recipe I ingotIron G gunpowder T Metal_Tube
- I 
- G 
-TTT
+Recipe I ingotIron G gunpowder
+III
+GGG
 //WeaponType : One of Missile, Shell, Bomb, Gun, None. Only affects driveable entities
 WeaponType Shell
 Description 75-85mm Guns
